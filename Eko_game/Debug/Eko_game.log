@@ -1,0 +1,4 @@
+﻿  Maingame.cpp
+D:\Szkola\AGA_PROJEKT\Eko_game\Eko_game\Maingame.cpp(56): warning C4715: "positForConteiner”: niewszystkie ścieżki kodu zwracają wartość
+D:\Szkola\AGA_PROJEKT\Eko_game\Eko_game\Maingame.cpp(121): warning C4715: "checkRightTrash”: niewszystkie ścieżki kodu zwracają wartość
+  Eko_game.vcxproj -> D:\Szkola\AGA_PROJEKT\Eko_game\Debug\Eko_game.exe
